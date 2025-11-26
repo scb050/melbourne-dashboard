@@ -8,3 +8,4 @@ streamlit-folium
 seaborn
 scikit-learn
 statsmodels
+gunicorn
